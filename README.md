@@ -13,8 +13,7 @@ I am Vladimir Curiel from Dominican Republic, I am currently studying Computer S
 
 ### Connect with me:
 
-[![StackOverflow](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![StackOverflow](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+![StackOverflow]
 &nbsp;&nbsp;
 
 
