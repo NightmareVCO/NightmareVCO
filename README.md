@@ -8,3 +8,14 @@ I am Vladimir Curiel from Dominican Republic, I am currently studying Computer S
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" style="padding-right:10px;"/>
+<br />
+
+
+### Connect with me:
+
+[![StackOverflow](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![StackOverflow](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+
+
+[StackOverflow]: [https://codeSTACKr.com](https://es.stackoverflow.com/users/251924/nightmarevco)
