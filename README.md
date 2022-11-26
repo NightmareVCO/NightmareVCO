@@ -15,8 +15,10 @@ I am Vladimir Curiel from Dominican Republic, I am currently studying Computer S
 
 ### Connect with me:
 
-![StackOverflow]
-&nbsp;&nbsp;
+[StackOverflow](https://stackoverflow.com/users/19317627/vladimir-curiel)
+<img align="left" alt="StackOverflow" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" style="padding-right:10px;"/>
 
 
-[StackOverflow]: (https://stackoverflow.com/users/19317627/vladimir-curiel)
+
+
+
