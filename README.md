@@ -2,7 +2,7 @@
 
 I am Vladimir Curiel from Dominican Republic, I am currently studying Computer Science Engineering at Pontificia Universidad Católica Madre y Maestra.
 
-    Currently learning FullStack.
+    Currently learning AWS/Docker.
 ### Languages and Tools:
 
 
