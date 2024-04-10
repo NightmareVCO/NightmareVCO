@@ -20,8 +20,7 @@ I am Vladimir Curiel from Dominican Republic, I am currently studying Computer S
 <img align="left" alt="CSS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;"/>
-
-[//]: # (<img align="left" alt="Mongo DB" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" style="padding-right:10px;"/>)
+<img align="left" alt="Mongo DB" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" style="padding-right:10px;"/>
 
 [//]: # (<img align="left" alt="MS SQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="padding-right:10px;"/>)
 
@@ -29,10 +28,8 @@ I am Vladimir Curiel from Dominican Republic, I am currently studying Computer S
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Illustrator" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/illustrator/illustrator-line.svg" style="padding-right:10px;"/>
-<img align="left" alt="Fedora" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/fedora/fedora-plain.svg" style="padding-right:10px;"/>
 
-
-
+[//]: # (<img align="left" alt="Fedora" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/fedora/fedora-plain.svg" style="padding-right:10px;"/>) 
 <br />
 
 ### Connect with me:
