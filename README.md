@@ -3,7 +3,9 @@
 I am Vladimir Curiel from Dominican Republic, I am currently studying Computer Science Engineering at Pontificia Universidad Católica Madre y Maestra.
 
     Currently learning NextJS
-### Visit: [My GitHub Page](https://nightmarevco.github.io/)
+
+### [My Portfolio](https://vladimircuriel.me/)
+### [My GitHub Page](https://nightmarevco.github.io/)
     
 ### Languages and Tools:
 
