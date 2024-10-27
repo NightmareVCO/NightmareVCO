@@ -2,7 +2,8 @@
 
 I am Vladimir Curiel from Dominican Republic, I am currently studying Computer Science Engineering at Pontificia Universidad Católica Madre y Maestra.
 
-### [My Portfolio](https://vladimircuriel.me/)
+### [My Portfolio-v2](https://vladimircuriel.me/)
+### [My Portfolio-v1](https://vladimircuriel.netlify.app)
 ### [My GitHub Page](https://nightmarevco.github.io/)
     
 ### Languages and Tools:
