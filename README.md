@@ -13,9 +13,12 @@ I am Vladimir Curiel from Dominican Republic, I am currently studying Computer S
 [//]: # (<img align="left" alt="CPP" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;"/>)
 
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Go" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="TypeScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" style="padding-right:10px;"/>
 <img align="left" alt="NodeJS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="NestJS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg" style="padding-right:10px;"/>
+
+
 
 <img align="left" alt="HTML" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" style="padding-right:10px;"/>
