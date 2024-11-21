@@ -36,6 +36,7 @@
 
 <img align="left" alt="Java" width="60px" src="https://camo.githubusercontent.com/9e02c0426b198d80f933ea32f92142c36ce703345e524caa6c7f38fa338aaf9f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661" style="padding-right:10px;"/>
 <img align="left" alt="Python" width="60px" src="https://camo.githubusercontent.com/dda56cb9e7473c3afc789b099b5bbe77a3a8d12e3caed4c7162b610d7c7507c8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e" style="padding-right:10px;"/>
+<img align="left" alt="Flutter" width="60px" src="https://camo.githubusercontent.com/a860f29a5b985c8efb9618ca0f2e7d64d749845847c8950f2c0ba4e71081afd6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d666c7574746572" style="padding-right:10px;"/>
 <img align="left" alt="C" width="60px" src="https://camo.githubusercontent.com/53b27cbad05c013d17c92bd9a820d0e7d9f5199f88ffc827dae965b4ac0657ca/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d63" style="padding-right:10px;"/>
 <img align="left" alt="CPP" width="60px" src="https://camo.githubusercontent.com/33a88742a4c2007e41b467f181b79c7f68650b056f27ac9d38176995f68ad586/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070" style="padding-right:10px;"/>
 
