@@ -3,7 +3,7 @@
 
 <ul>
     <li>
-        🎓 Computer Science Engineer with a strong passion for backend, full-stack development, and data science.
+        🎓 Computer Science Engineer Student with a strong passion for backend, full-stack development, and data science.
     </li>
     <li>
         🌍 Living in the Dominican Republic 🇩🇴 and eager to contribute globally.        
