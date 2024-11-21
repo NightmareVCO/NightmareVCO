@@ -1,55 +1,55 @@
-## Hello there!
+# 👋 Hello there!
 
-I am Vladimir Curiel from Dominican Republic, I am currently studying Computer Science Engineering at Pontificia Universidad Católica Madre y Maestra.
+
+<ul>
+    <li>
+        🎓 Computer Science Engineer with a strong passion for backend, full-stack development, and data science.
+    </li>
+    <li>
+        🌍 Living in the Dominican Republic 🇩🇴 and eager to contribute globally.        
+    </li>
+    <li>
+        💻 Experienced in NodeJS, NextJS, and a wide array of backend and frontend technologies.        
+    </li>
+    <li>
+        📊 Fascinated by data engineering and the potential of artificial intelligence.        
+    </li>
+</ul>
 
 ```
-Currently learning Golang
+🌱 Currenty learning Golang, Microservices, GRPC and Data Mining
 ```
 
-### [My Portfolio-v2](https://vladimircuriel.me/)
-### [My Portfolio-v1](https://vladimircuriel.netlify.app)
-### [My GitHub Page](https://nightmarevco.github.io/)
+## My Portfolio
+<a href="https://vladimircuriel.me"> 
+    <img src="https://github.com/user-attachments/assets/8f4f5bd4-f515-4892-92f7-f4ddfc9cf410" />
+</a>
     
-### Languages and Tools:
-
-[//]: # (<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" style="padding-right:10px;"/>)
-
-[//]: # (<img align="left" alt="CPP" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;"/>)
-
-<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Go" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="TypeScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" style="padding-right:10px;"/>
-<img align="left" alt="NodeJS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="NestJS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg" style="padding-right:10px;"/>
+## Languages and Tools:
 
 
 
-<img align="left" alt="HTML" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="CSS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="TailwindCSS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;"/>
-<img align="left" alt="NextJS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-plain-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" alt="NodeJS" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="TypeScript" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="Go" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="NestJS" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg" style="padding-right:10px;"/>
 
-<img align="left" alt="Mongo DB" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" style="padding-right:10px;"/>
-<img align="left" alt="Postgres" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" alt="Java" width="60px" src="https://camo.githubusercontent.com/9e02c0426b198d80f933ea32f92142c36ce703345e524caa6c7f38fa338aaf9f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661" style="padding-right:10px;"/>
+<img align="left" alt="Python" width="60px" src="https://camo.githubusercontent.com/dda56cb9e7473c3afc789b099b5bbe77a3a8d12e3caed4c7162b610d7c7507c8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e" style="padding-right:10px;"/>
+<img align="left" alt="C" width="60px" src="https://camo.githubusercontent.com/53b27cbad05c013d17c92bd9a820d0e7d9f5199f88ffc827dae965b4ac0657ca/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d63" style="padding-right:10px;"/>
+<img align="left" alt="CPP" width="60px" src="https://camo.githubusercontent.com/33a88742a4c2007e41b467f181b79c7f68650b056f27ac9d38176995f68ad586/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070" style="padding-right:10px;"/>
 
-[//]: # (<img align="left" alt="MS SQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="padding-right:10px;"/>)
+<img align="left" alt="HTML" width="60px" src="https://camo.githubusercontent.com/49179b69f7956cc4b5e5e7987d011103b7e3ffc20c55ca4a43c8ff214c3b6796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" style="padding-right:10px;"/>
+<img align="left" alt="CSS" width="60px" src="https://camo.githubusercontent.com/a266b2536a9f4e1b8dc325ca89d9ce8e7f323c1e140f8b830a42f474a56e3b4c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" style="padding-right:10px;"/>
+<img align="left" alt="JavaScript" width="60px" src="https://camo.githubusercontent.com/de084dc371104f5a434b8930b7f74e0b351e3b763d36a8fbc51bf8b9b023d769/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661736372697074" style="padding-right:10px;"/>
+<img align="left" alt="TailwindCSS" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="NextJS" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" style="padding-right:10px;"/>
 
-<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Illustrator" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/illustrator/illustrator-line.svg" style="padding-right:10px;"/>
+<img align="left" alt="Docker" width="60px" src="https://camo.githubusercontent.com/869b011ef3778c6dce9288ee988f59caec696153e3afb7219d858c05d317e368/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646f636b6572" style="padding-right:10px;"/>
+<img align="left" alt="Mongo DB" width="60px" src="https://camo.githubusercontent.com/8c779088a37e29fdc8fca5576357aa67c86f30041734226d17f70e150eececdf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" style="padding-right:10px;"/>
+<img align="left" alt="Postgres" width="60px" src="https://camo.githubusercontent.com/8ac99a8f9df10832e35eb2fb7fad603424fa19b103551cdebf76cbae20d9ef0c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573" style="padding-right:10px;"/>
+<img align="left" alt="MySQL" width="60px" src="https://camo.githubusercontent.com/8f3f7c6f760a14060b33e90190faa902bcc4871373ec7ef0451c183a54d6490a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d7973716c" style="padding-right:10px;"/>
 
-[//]: # (<img align="left" alt="Fedora" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/fedora/fedora-plain.svg" style="padding-right:10px;"/>) 
-<br />
-
-### Connect with me:
-
-[StackOverflow](https://stackoverflow.com/users/19317627/vladimir-curiel)
-<img align="left" alt="StackOverflow" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" style="padding-right:10px;"/>
-
-
-
-
-
+<img align="left" alt="Git" width="60px" src="https://camo.githubusercontent.com/a2322ca134c223fe4b49d637be98c3b8d9b907e8ef9c601c4bc8ce2a5824e269/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974" style="padding-right:10px;"/>
+<img align="left" alt="Visual Studio Code" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Illustrator" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/illustrator/illustrator-line.svg" style="padding-right:10px;"/>
