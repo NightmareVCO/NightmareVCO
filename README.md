@@ -17,7 +17,7 @@
 </ul>
 
 ```
-🌱 Currenty learning Golang, Microservices, GRPC and Data Mining
+🌱 Currenty learning Golang, Microservices and GRPC
 ```
 
 ## My Portfolio
