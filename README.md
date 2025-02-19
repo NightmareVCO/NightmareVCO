@@ -21,7 +21,7 @@
 ```
 
 ## My Portfolio
-<a href="https://vladimircuriel.me"> 
+<a href="https://vladimircuriel.com"> 
     <img src="https://github.com/user-attachments/assets/8f4f5bd4-f515-4892-92f7-f4ddfc9cf410" />
 </a>
     
