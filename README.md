@@ -1,5 +1,6 @@
 # 👋 Hello there!
 
+[![committers.top badge](https://user-badge.committers.top/dominican_republic/NightmareVCO.svg)](https://user-badge.committers.top/dominican_republic/NightmareVCO)
 
 <ul>
     <li>
@@ -17,7 +18,7 @@
 </ul>
 
 ```
-🌱 Currenty learning Golang, Microservices and GRPC
+🌱 Currenty learning Golang and Microservices
 ```
 
 ## My Portfolio
