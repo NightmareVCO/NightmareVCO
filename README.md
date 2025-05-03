@@ -18,7 +18,7 @@
 </ul>
 
 ```
-🌱 Currenty learning Golang and Microservices
+🌱 Currenty learning
 ```
 
 ## My Portfolio
