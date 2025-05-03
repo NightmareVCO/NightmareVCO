@@ -18,7 +18,7 @@
 </ul>
 
 ```
-🌱 Currenty learning
+🌱 Currenty learning Go
 ```
 
 ## My Portfolio
