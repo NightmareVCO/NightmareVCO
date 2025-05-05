@@ -30,12 +30,12 @@
 [![Languages](https://skillicons.dev/icons?i=c,cs,cpp,dart,go,java,py,r,ts,js,html,css)](https://skillicons.dev)  
 
 ## FrameWorks:
-[![Backend Frameworks](https://skillicons.dev/icons?i=fastapi,express,nestjs,spring)](https://skillicons.dev)  
-[![Frontend Frameworks](https://skillicons.dev/icons?i=react,astro,nextjs)](https://skillicons.dev)  
+[![Backend Frameworks](https://skillicons.dev/icons?i=spring,nestjs,express,fastapi)](https://skillicons.dev)  
+[![Frontend Frameworks](https://skillicons.dev/icons?i=react,nextjs,astro)](https://skillicons.dev)  
 [![UI & CSS](https://skillicons.dev/icons?i=tailwind,bootstrap,sass)](https://skillicons.dev) 
 
 ## Database:
-[![Databases](https://skillicons.dev/icons?i=dynamodb,mongodb,mysql,postgres,sqlite,redis)](https://skillicons.dev)  
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,dynamodb,redis)](https://skillicons.dev)  
 [![ORMs](https://skillicons.dev/icons?i=hibernate,prisma,sequelize)](https://skillicons.dev)
 
 ## DataScience:
@@ -45,7 +45,7 @@
 [![Cloud Services](https://skillicons.dev/icons?i=aws,firebase,gcp,netlify,vercel)](https://skillicons.dev)   
  
 ## Dependency Managers:
-[![Dependency Managers](https://skillicons.dev/icons?i=npm,pnpm,bun,gradle,maven)](https://skillicons.dev)  
+[![Dependency Managers](https://skillicons.dev/icons?i=pnpm,maven,bun,gradle)](https://skillicons.dev)  
 
 ## CMS:
 [![CMS](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)  
