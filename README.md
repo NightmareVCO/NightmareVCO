@@ -23,9 +23,9 @@
 
 ## My Portfolio
 <a href="https://vladimircuriel.com"> 
-    <img src="https://github.com/user-attachments/assets/8f4f5bd4-f515-4892-92f7-f4ddfc9cf410" />
+    <img src="https://github.com/user-attachments/assets/451cac3e-661c-472c-b7e8-35c8fe9adfce" />
 </a>
-    
+
 ## Languages and Tools:
 
 
