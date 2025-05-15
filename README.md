@@ -35,7 +35,7 @@
 [![UI & CSS](https://skillicons.dev/icons?i=tailwind,bootstrap,sass)](https://skillicons.dev) 
 
 ## Database:
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,dynamodb,redis)](https://skillicons.dev)  
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,dynamodb,redis)](https://skillicons.dev)  
 [![ORMs](https://skillicons.dev/icons?i=hibernate,prisma,sequelize)](https://skillicons.dev)
 
 ## DataScience:
