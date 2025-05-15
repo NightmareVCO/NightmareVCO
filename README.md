@@ -27,7 +27,7 @@
 </a>
 
 ## Languages:
-[![Languages](https://skillicons.dev/icons?i=cjava,go,dart,py,r,ts,js,html,css)](https://skillicons.dev)  
+[![Languages](https://skillicons.dev/icons?i=c,java,go,dart,py,r,ts,js,html,css)](https://skillicons.dev)  
 
 ## FrameWorks:
 [![Backend Frameworks](https://skillicons.dev/icons?i=spring,nestjs,express,fastapi)](https://skillicons.dev)  
