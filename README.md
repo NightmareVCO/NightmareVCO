@@ -10,7 +10,7 @@
         🌍 Living in the Dominican Republic 🇩🇴 and eager to contribute globally.        
     </li>
     <li>
-        💻 Experienced in NodeJS, SpringBoot, NextJS, and a wide array of backend and frontend technologies.        
+        💻 Experienced in SpringBoot, NestJS, NextJS, and a wide array of backend and frontend technologies.        
     </li>
     <li>
         📊 Fascinated by data engineering and the potential of artificial intelligence.        
