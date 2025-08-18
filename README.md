@@ -17,9 +17,6 @@
     </li>
 </ul>
 
-```
-🌱 Currenty learning Go
-```
 
 ## My Portfolio
 <a href="https://vladimircuriel.com"> 
