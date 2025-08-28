@@ -24,25 +24,23 @@
 </a>
 
 ## Languages:
-[![Languages](https://skillicons.dev/icons?i=c,java,go,dart,py,r,ts,js,html,css)](https://skillicons.dev)  
+[![Languages](https://skillicons.dev/icons?i=java,nodejs,py,go)](https://skillicons.dev)  
 
-## FrameWorks:
-[![Backend Frameworks](https://skillicons.dev/icons?i=spring,nestjs,express,fastapi)](https://skillicons.dev)  
-[![Frontend Frameworks](https://skillicons.dev/icons?i=react,nextjs,astro)](https://skillicons.dev)  
-[![UI & CSS](https://skillicons.dev/icons?i=tailwind,bootstrap,sass)](https://skillicons.dev) 
+## Frameworks:
+[![Backend Frameworks](https://skillicons.dev/icons?i=spring,nestjs,fastapi)](https://skillicons.dev)  
+[![Frontend Frameworks](https://skillicons.dev/icons?i=nextjs,astro)](https://skillicons.dev)  
 
 ## Database:
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,dynamodb,redis)](https://skillicons.dev)  
-[![ORMs](https://skillicons.dev/icons?i=hibernate,prisma,sequelize)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)  
+[![ORMs](https://skillicons.dev/icons?i=hibernate,prisma)](https://skillicons.dev)
 
 ## DataScience:
-[![Data Science & ML](https://skillicons.dev/icons?i=anaconda,sklearn,tensorflow,pytorch,opencv)](https://skillicons.dev)  
+[![Data Science & ML](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv)](https://skillicons.dev)  
 
-## Cloud Services:
-[![Cloud Services](https://skillicons.dev/icons?i=aws,firebase,gcp,netlify,vercel)](https://skillicons.dev)   
+[//]: <> (## Cloud Services:)
  
 ## Dependency Managers:
-[![Dependency Managers](https://skillicons.dev/icons?i=pnpm,maven,bun,gradle)](https://skillicons.dev)  
+[![Dependency Managers](https://skillicons.dev/icons?i=maven,pnpm)](https://skillicons.dev)  
 
 ## CMS:
 [![CMS](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)  
