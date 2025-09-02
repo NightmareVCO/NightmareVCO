@@ -1,57 +1,72 @@
-# 👋 Hello there!
+<h1 align="center">
+    👋 Hello there, I'm Vladimir Curiel!
+</h1>
 
-[![committers.top badge](https://user-badge.committers.top/dominican_republic/NightmareVCO.svg)](https://user-badge.committers.top/dominican_republic/NightmareVCO)
-
-<ul>
-    <li>
-        🎓 Computer Science Engineer Student with a strong passion for backend, full-stack development, and data science.
-    </li>
-    <li>
-        🌍 Living in the Dominican Republic 🇩🇴 and eager to contribute globally.        
-    </li>
-    <li>
-        💻 Experienced in SpringBoot, NestJS, NextJS, and a wide array of backend and frontend technologies.        
-    </li>
-    <li>
-        📊 Fascinated by data engineering and the potential of artificial intelligence.        
-    </li>
-</ul>
-
-
-## My Portfolio
 <a href="https://vladimircuriel.com"> 
     <img src="https://github.com/user-attachments/assets/451cac3e-661c-472c-b7e8-35c8fe9adfce" />
 </a>
 
-## Languages:
-[![Languages](https://skillicons.dev/icons?i=java,nodejs,py,go)](https://skillicons.dev)  
+<h1 align="center">
+</h1>
 
-## Frameworks:
-[![Backend Frameworks](https://skillicons.dev/icons?i=spring,nestjs,fastapi)](https://skillicons.dev)  
-[![Frontend Frameworks](https://skillicons.dev/icons?i=nextjs,astro)](https://skillicons.dev)  
+<h2 align="center">
+    Get To Know Me
+</h2>
 
-## Database:
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)  
-[![ORMs](https://skillicons.dev/icons?i=hibernate,prisma)](https://skillicons.dev)
+<ul>
+    <li>
+        🎓 Computer Science Engineer who enjoys developing software solutions from backend, frontend to fullstack.
+    <li>
+        🌍 Living in the Dominican Republic 🇩🇴, eager to contribute globally and deliver quality software.
+    </li>
+    <li>
+        💻 Experienced in SpringBoot, NextJS, React Native, and a wide array of tools and platforms to improve results.     
+    </li>
+<li>
+    📊 Fascinated by data engineering and the potential of AI, with a interest in building scalable solutions.
+</li>
+</ul>
 
-## DataScience:
-[![Data Science & ML](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv)](https://skillicons.dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vladimircuriel-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vladimircuriel) 
+[![GitHub](https://img.shields.io/badge/GitHub-vladimircuriel-purple?style=for-the-badge&logo=github)](https://github.com/vladimircuriel) 
+[![Email](https://img.shields.io/badge/Email-vladimircuriel-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@vladimircuriel.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-vladimircuriel-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vladimircuriel)
 
-[//]: <> (## Cloud Services:)
- 
-## Dependency Managers:
-[![Dependency Managers](https://skillicons.dev/icons?i=maven,pnpm)](https://skillicons.dev)  
+<h1 align="center">
+</h1>
 
-## CMS:
-[![CMS](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)  
+<h2 align="center">
+    My Main Stack
+</h2>
 
-## Dev Tools:
-[![Dev Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,postman)](https://skillicons.dev)  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,nextjs,astro,wordpress,postgres,mongodb,hibernate,sklearn,tensorflow,pytorch,opencv,gradle,vscode" width="1200" height="1200"/>
+  </a>
+</p>
 
-## Media Tools:
-[![Visual Tools](https://skillicons.dev/icons?i=figma,ai)](https://skillicons.dev)  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,git,github,githubactions,docker,postman,figma,ai,apple,linux,windows,maven,pnpm" width="1200" height="1200"/>
+  </a>
+</p>
+<h1 align="center">
+</h1>
 
-## OS:
-[![Operating Systems](https://skillicons.dev/icons?i=apple,windows,linux)](https://skillicons.dev)  
+<h2 align="center">
+     Explored Technologies
+</h2>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=grafana,prometheus,vercel,netlify,fastapi,mysql,aws,firebase,dynamodb,bun,idea,googlecloud,flutter,redis" width="1200" height="1200"/>
+  </a>
+</p>
+
+<h1 align="center">
+</h1>
+
+<h1 align="center">
+    Welcome To Explore My Projects!
+</h1>
 
