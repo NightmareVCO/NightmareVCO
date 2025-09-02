@@ -67,6 +67,14 @@
 </h1>
 
 <h1 align="center">
-    Welcome To Explore My Projects!
+    Dive Into My Projects!
 </h1>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladimircuriel&theme=tokyonight" />
+</div>
+
+<h1 align="center">
+</h1>
+
 
