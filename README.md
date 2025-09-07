@@ -20,7 +20,7 @@
         🌍 Living in the Dominican Republic 🇩🇴, eager to contribute globally and deliver quality software.
     </li>
     <li>
-        💻 Experienced in SpringBoot, NextJS, React Native, and a wide array of tools and platforms to improve results.     
+        💻 Experienced in SpringBoot, NextJS, AstroJS, React Native, and a wide array of tools and platforms to improve results.     
     </li>
 <li>
     📊 Fascinated by data engineering and the potential of AI, with a interest in building scalable solutions.
@@ -59,7 +59,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=grafana,prometheus,vercel,netlify,fastapi,mysql,aws,firebase,dynamodb,bun,idea,googlecloud,flutter,redis" width="1200" height="1200"/>
+    <img src="https://skillicons.dev/icons?i=grafana,prometheus,vercel,netlify,bun,idea,googlecloud,redis,bootstrap" width="1200" height="1200"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,nestjs,express,fastapi,aws,firebase,dynamodb,mysql,anaconda" width="1200" height="1200"/>
   </a>
 </p>
 
